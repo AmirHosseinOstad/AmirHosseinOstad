@@ -5,7 +5,7 @@
 ![Technology](https://img.shields.io/badge/Technology-4B0082?style=for-the-badge&logo=dependabot&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Design](https://img.shields.io/badge/Design-FF69B4?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+![Design](https://img.shields.io/badge/Design-d9c300?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Designer • Researcher • C# Developer**
