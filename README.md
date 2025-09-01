@@ -1,5 +1,6 @@
 # Amir Hossein Ostad
 
+![Elesoft](https://img.shields.io/badge/Design-1739bf?style=for-the-badge&logo=elesoft&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Technology](https://img.shields.io/badge/Technology-4B0082?style=for-the-badge&logo=dependabot&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
